@@ -1,2 +1,2 @@
-# ibm-git
-Part of the course
+# Calculator
+Open Source Bash Script Calculator
